@@ -1,0 +1,83 @@
+/* style for index */
+
+.jumbotron .btn {
+  background-color: #144fc3;
+  border: none;
+  border-radius: 25px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+/* style register */
+.register {
+  background-image: url(img/bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+.container1 {
+  padding: 5px;
+  box-shadow: -1px 1px 60px 10px black;
+  background: rgba(0, 0, 0, 0.4);
+  margin-left: 430px;
+  width:450px;
+}
+.register .gicon {
+  text-align: center;
+}
+.register .container1 h3 {
+  margin-top: 3px;
+  font-size: 25px;
+  color: white;
+}
+.register .container1 hr {
+  border: none;
+  height: 5px;
+  background: #1f34f6;
+}
+.register .container1 label {
+  font-size: 15px;
+  color: white;
+}
+.register .container1 .col-md-9 {
+  margin-top: -5px;
+  margin-left: 25px;
+}
+.register .container1 .form-control {
+  background: transparent;
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 1px solid blue;
+  color: yellow;
+}
+.register .container1 input[type="checkbox"] {
+  margin-top: 10px;
+  width: 15px;
+  height: 15px;
+}
+.register .container1 small {
+  font-size: 15px;
+  color: white;
+}
+.register .container2 {
+  padding: 5px;
+  box-shadow: -1px 1px 60px 10px black;
+  background: rgba(0, 0, 0, 0.4);
+}
+.register .container2 img {
+  width: 50px;
+  height: 50px;
+}
+.register .container2 .arrow {
+  width: 50px;
+  height: 50px;
+}
+/* style for succesregister */
+.sukses {
+  background-image: url(img/sukses.jpg);
+  background-size: cover;
+
+}
+.sukses .jumbotron {
+  background:#3ee654;
+  margin-top: 100px;
+}
